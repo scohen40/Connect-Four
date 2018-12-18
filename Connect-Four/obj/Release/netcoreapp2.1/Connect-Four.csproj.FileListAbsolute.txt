@@ -1,0 +1,10 @@
+C:\Users\cohen\source\repos\Connect-Four\Connect-Four\bin\Release\netcoreapp2.1\Connect-Four.deps.json
+C:\Users\cohen\source\repos\Connect-Four\Connect-Four\bin\Release\netcoreapp2.1\Connect-Four.runtimeconfig.json
+C:\Users\cohen\source\repos\Connect-Four\Connect-Four\bin\Release\netcoreapp2.1\Connect-Four.runtimeconfig.dev.json
+C:\Users\cohen\source\repos\Connect-Four\Connect-Four\bin\Release\netcoreapp2.1\Connect-Four.dll
+C:\Users\cohen\source\repos\Connect-Four\Connect-Four\bin\Release\netcoreapp2.1\Connect-Four.pdb
+C:\Users\cohen\source\repos\Connect-Four\Connect-Four\obj\Release\netcoreapp2.1\Connect-Four.csproj.CoreCompileInputs.cache
+C:\Users\cohen\source\repos\Connect-Four\Connect-Four\obj\Release\netcoreapp2.1\Connect-Four.AssemblyInfoInputs.cache
+C:\Users\cohen\source\repos\Connect-Four\Connect-Four\obj\Release\netcoreapp2.1\Connect-Four.AssemblyInfo.cs
+C:\Users\cohen\source\repos\Connect-Four\Connect-Four\obj\Release\netcoreapp2.1\Connect-Four.dll
+C:\Users\cohen\source\repos\Connect-Four\Connect-Four\obj\Release\netcoreapp2.1\Connect-Four.pdb
